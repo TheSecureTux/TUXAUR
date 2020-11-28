@@ -1,4 +1,4 @@
-# Maintainer: jordi miralles <jordimirallesguri@gmail.com>
+
 pkgname=bitwarden-rofi-git
 pkgver=0.4.r20.ga53cc1e
 pkgrel=1
